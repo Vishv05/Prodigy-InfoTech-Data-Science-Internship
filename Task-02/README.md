@@ -1,9 +1,5 @@
 # 📊 Task-02 – Data Cleaning & Exploratory Data Analysis (EDA)
 
-**Intern:** Vishv Bhavsar  
-**Track Code:** DS  
-**Dataset:** Titanic Dataset (Kaggle)
-
 ---
 
 ## 🎯 Objective
