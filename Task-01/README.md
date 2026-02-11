@@ -1,4 +1,17 @@
 # Task 01 – Distribution Visualization
 
-This folder contains the notebook and dataset
-for Task-01 of the Prodigy InfoTech Data Science Internship.
+## 📌 Objective
+To create a bar chart or histogram to visualize the distribution of total population data.
+
+## 📂 Dataset
+World Bank Population Dataset (API_SP.POP.TOTL)
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## 📊 Output
+- Population distribution visualization
+- Cleaned dataset analysis
