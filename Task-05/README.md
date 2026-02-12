@@ -74,7 +74,6 @@ A representative sample of 100,000 records was used for analysis.
 Task-05/
 │
 ├── Task_05_US_Accidents_Analysis.ipynb
-├── us_accidents_sample.csv
 └── README.md
 
 ---
