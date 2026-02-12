@@ -82,3 +82,12 @@ Task-05/
 ⭐ This project is part of my Data Science Internship journey at Prodigy InfoTech.
 Intern: Vishv Bhavsar
 Track Code: DS
+
+## Dataset
+
+Due to GitHub file size limitations, the dataset is not uploaded.
+
+You can download the dataset from:
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+Use a smaller sample (100k–200k rows) for running this project.
