@@ -49,30 +49,23 @@ Histogram representation
 
 Python, Pandas, Matplotlib, Seaborn
 
-📌 Task-02 – Linear Regression Model
-🎯 Objective
+📌 Task-02 – Data Cleaning & Exploratory Data Analysis (EDA)
 
-Build a regression model to predict a continuous target variable.
+🎯 Objective  
+Perform data cleaning and exploratory data analysis to identify patterns and relationships in the dataset.
 
-📊 Dataset Used
+📊 Dataset Used  
+Titanic Dataset (Kaggle)
 
-Bank Marketing Dataset
+🔍 Key Work  
+Handled missing values  
+Removed unnecessary columns  
+Explored survival patterns  
+Correlation analysis  
+Visualized relationships between variables  
 
-🔍 Key Work
-
-Data preprocessing
-
-Handling categorical variables
-
-Train-test split
-
-Linear Regression model building
-
-Model evaluation (R² score, MAE, MSE)
-
-🛠 Tools Used
-
-Python, Pandas, NumPy, Scikit-learn
+🛠 Tools Used  
+Python, Pandas, NumPy, Matplotlib, Seaborn
 
 📌 Task-03 – Decision Tree Classifier (Bank Marketing)
 🎯 Objective
